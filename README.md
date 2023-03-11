@@ -1,4 +1,6 @@
-# AirBnB clone - The console
+# 0x00. AirBnB clone - The console
+# 11 March 2023
+
  <img src="img/hbnb_screenshot.png" alt="cover" />
 
 ## Description
@@ -65,8 +67,8 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Mary Kiige** ~ [mkiige77@gmail.com](https://github.com/Mkiige) : 
+- **David Nnadozie** 
 
-- **Nick Gitobu** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@pronic_tech](https://twitter.com/pronic_tech):
+- **Murendwa Ratshitimba** 
 
 <img align="center" src="img/unnamed.png" alt="footer" width="150"  height="150"/>
